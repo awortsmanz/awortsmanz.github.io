@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arie Wortsman Zurich"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student at CDS-École Normale Supérieure"
+  location         : "Paris, France"
+  employer         : "Centre Sciences des Données - École Normale Supérieure"
   uri              : # URL
   email            : "none@example.org" 
 
