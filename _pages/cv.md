@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D at the Center for Data Science, École Normale Superieure, 2024-Present (First Year)
+* M.S. in Mathematics and Applications, Université Paris-Dauphine 2023-2024
+* B.S. in Applied Mathematics, Universidad de Chile 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Intern
+  * Center for Data Science, École Normale Superieure
+  * Supervisor: Bruno Loureiro
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Research Intern
+  * INRIA Bordeaux
+  * Supervisor: Simone Labarthe and Clémence Frioux
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Spanish, English, French. 
 
 Publications
 ======
@@ -59,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
